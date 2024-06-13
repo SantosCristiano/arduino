@@ -7,8 +7,6 @@ The Arduino Project repository showcases a collection of projects aimed at explo
 
 Source Code: Arduino sketch files (.ino) containing the code for the project.
 
-Documentation: README files and/or documentation within each project folder explaining the project's purpose, components used, and how to replicate or modify it.
-
 Hardware Configuration: Details on how to connect sensors, actuators, or other components to the Arduino board.
 
 ## Projects
