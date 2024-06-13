@@ -27,8 +27,6 @@ Ultrasonic Distance Sensor: Measuring distance with an HC-SR04 ultrasonic sensor
 
 Internet of Things (IoT) Projects: Demonstrating IoT applications using Arduino and Wi-Fi modules.
 
-Each project folder typically contains a README.md file explaining the project's purpose, how to set up the hardware, and any additional information required to run the project successfully.
-
 ## Getting Started
 
 To get started with any project in this repository, follow these general steps:
@@ -40,8 +38,6 @@ Clone this repository:
 Navigate into the cloned directory:
 
 ```cd arduino```
-
-Choose a project of interest from the list above, navigate into its directory, and follow the specific instructions provided in its README.md file.
 
 Set up your Arduino IDE or compatible development environment.
 
