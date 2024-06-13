@@ -56,4 +56,5 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 ## Acknowledgments
 
 Arduino community for their open-source hardware and software.
+
 Contributors and maintainers of libraries used in these projects.
