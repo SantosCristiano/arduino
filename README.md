@@ -1,6 +1,6 @@
 # arduino
 
-This repository contains various Arduino projects demonstrating different applications and experiments with Arduino boards and sensors.
+## This repository contains various Arduino projects demonstrating different applications and experiments with Arduino boards and sensors.
 
 Overview
 The Arduino Project repository showcases a collection of projects aimed at exploring the capabilities of Arduino microcontrollers. Each project typically includes:
